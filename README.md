@@ -7,12 +7,16 @@
 - 🌱 Atualmente estou estudando, Ruby, Python, RPA (UiPath e Automation Anywhere), Salesforce, Microsoft Power BI e SQL (Microsoft SQL Server, Oracle, MySQL e PostgreSQL)
 
 - ⚡ Meus hobbies são estudar, jogar video-game, tocar guitarra e violão.
-
+<br>
+<br>
 <div align="center">
   <a href="https://github.com/brunnogiardina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunnogiardina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 <div> 
-
- <a href="https://www.linkedin.com/in/brunnogiardina/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br>
+<br>
+<div align="center">
+ <a href="https://www.linkedin.com/in/brunnogiardina/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> 
  
