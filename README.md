@@ -1,6 +1,6 @@
 ### Olá! Sou o Brunno Giardina! 👋
 
-- 💬 Trabalho há mais de 15 anos com manutenção de computadores e notebooks. Já fui instrutor de informática e em dezembro de 2017, me formei em Análise e Desenvolvimento de Sistemas
+- 💬 Formado em Análise e Desenvolvimento de Sistemas
  
 - 🔭 Atualmente estou em busca de realocação no mercado de trabalho na área que me formei.
 
