@@ -9,11 +9,12 @@
 - ⚡ Meus hobbies são estudar, jogar video-game, tocar guitarra e violão.
 <br>
 <br>
-<div align="center">
+<div align="left">
   <a href="https://github.com/brunnogiardina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunnogiardina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   </div>
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnogiardina&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
