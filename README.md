@@ -24,7 +24,7 @@
   <img align="center" alt="mysql" height="40" width="50" opacity=1 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="postgree" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://static.wikia.nocookie.net/saintseiya/images/b/b5/9-Sagittarius_Gold_Cloth.png/revision/latest/scale-to-width-down/457?cb=20170714024535">
+  <img align="right" alt="sagittarius_cloth" height="150" style="border-radius:50px;" src="https://static.wikia.nocookie.net/saintseiya/images/b/b5/9-Sagittarius_Gold_Cloth.png/revision/latest/scale-to-width-down/457?cb=20170714024535">
 </div>
  
   ##
