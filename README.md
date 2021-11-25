@@ -27,6 +27,7 @@
   <img align="right" alt="sagittarius_cloth" height="150" style="border-radius:50px;" src="https://static.wikia.nocookie.net/saintseiya/images/b/b5/9-Sagittarius_Gold_Cloth.png/revision/latest/scale-to-width-down/457?cb=20170714024535">
 </div>
  
+ 
   ##
  
 <div>
