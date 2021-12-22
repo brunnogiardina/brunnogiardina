@@ -2,7 +2,7 @@
 
 - 💬 Formado em Análise e Desenvolvimento de Sistemas
  
-- 🔭 Atualmente estou em busca de realocação no mercado de trabalho na área que me formei.
+- 🔭 Trabalho na NTT DATA como RPA Developer
 
 - 🌱 Atualmente estou estudando, Ruby, Python, RPA (UiPath e Automation Anywhere), Salesforce, Microsoft Power BI e SQL (Microsoft SQL Server, Oracle, MySQL e PostgreSQL)
 
